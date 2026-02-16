@@ -11,6 +11,9 @@ A simple but powerful desktop application to help students organize their tasks,
 - **Deadline Tracker** — calendar with color-coded urgency, subtasks support
 - **Task Database** — store reusable tasks with estimated time
 - **Eisenhower Matrix** — automatically sorts tasks by urgency/importance
+<img>width="1364" height="767" alt="Снимок экрана от 2026-01-28 18-27-16" src="https://github.com/user-attachments/assets/67ff8b52-b258-47b0-89ad-a12748d2b00a" />
+<img width="1364" height="767" alt="Снимок экрана от 2026-01-28 18-27-16" src="https://github.com/user-attachments/assets/67ff8b52-b258-47b0-89ad-a12748d2b00a" />
+
 - **Notifications** — reminds when it's time to do a task
 - **Bilingual UI** — switch between English and Russian
 
