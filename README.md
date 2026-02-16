@@ -22,7 +22,7 @@ A simple but powerful desktop application to help students organize their tasks,
 - Plyer — system notifications
 
 ### 📦 Installation
-Download `.exe` from [Google cloud]((https://drive.google.com/file/d/1FqnvDbnFfZhqQBQZPQJ7EnC-Pm2uGFzy/view?usp=drive_link))
+Download `.exe` from [Google cloud](https://drive.google.com/file/d/1FqnvDbnFfZhqQBQZPQJ7EnC-Pm2uGFzy/view?usp=drive_link)
 
 ### 📊 Why This Project Matters
 
