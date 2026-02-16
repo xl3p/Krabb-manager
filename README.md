@@ -9,7 +9,7 @@ A simple but powerful desktop application to help students organize their tasks,
 - **Weekly Planner** — schedule tasks for 7 days with importance colors (🟢🟡🟠🔴)
 <img width="1364" height="767" alt="Снимок экрана от 2026-01-28 18-27-16" src="https://github.com/user-attachments/assets/67ff8b52-b258-47b0-89ad-a12748d2b00a" />
 - **Smart Slot Finder** — automatically finds free time between existing tasks
-![Video Project(1)](https://github.com/user-attachments/assets/ae623909-849a-4c25-84f1-99f169e3b388)
+![Slot Search](asets/SearchFreeSlots.gif)
 - **Deadline Tracker** — calendar with color-coded urgency, subtasks support
 - **Task Database** — store reusable tasks with estimated time
 - **Eisenhower Matrix** — automatically sorts tasks by urgency/importance
