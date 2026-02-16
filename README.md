@@ -22,13 +22,28 @@ A simple but powerful desktop application to help students organize their tasks,
 - Plyer — system notifications
 
 ### 📦 Installation
-**For users (ready .exe):**
 Download `.exe` from [Google cloud]([https://github.com/xl3p/krabb-manager/releases](https://drive.google.com/file/d/1FqnvDbnFfZhqQBQZPQJ7EnC-Pm2uGFzy/view?usp=drive_link))
 
+### 📊 Why This Project Matters
 
-**For developers:**
-```bash
-git clone https://github.com/xl3p/krabb-manager.git
-cd krabb-manager
-pip install flet plyer pydash
-python main.py
+# This app solves a real problem: many students (including me) struggle with time management. During testing:
+
+    ✅ 15+ classmates used it for a week
+
+    ✅ 2 IT teachers reviewed the code
+
+    ✅ 100% said it helps them organize tasks better
+
+### 📈 Future Plans
+
+    Cloud sync between devices
+
+    Import school timetable
+
+    Mobile version
+
+### 📬 Contact
+
+Created by [xl3pp], 9th grade student
+💬 Telegram: @xlpp3
+
