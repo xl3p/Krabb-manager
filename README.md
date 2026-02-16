@@ -17,7 +17,7 @@ A simple but powerful desktop application to help students organize their tasks,
 ### 🛠 Tech Stack
 
 - Python 3.10+
-- [Flet]([https://flet.dev/](https://drive.google.com/file/d/1FqnvDbnFfZhqQBQZPQJ7EnC-Pm2uGFzy/view?usp=drive_link)) — modern GUI framework
+- [Flet](https://flet.dev/) — modern GUI framework
 - JSON for data storage
 - Plyer — system notifications
 
