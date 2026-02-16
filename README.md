@@ -28,7 +28,7 @@ Download `.exe` from [Google cloud]([https://github.com/xl3p/krabb-manager/relea
 
 **For developers:**
 ```bash
-git clone https://github.com/[твой-логин]/krabb-manager.git
+git clone https://github.com/xl3p/krabb-manager.git
 cd krabb-manager
 pip install flet plyer pydash
 python main.py
