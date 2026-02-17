@@ -39,9 +39,9 @@ A simple but powerful desktop application to help students organize their tasks,
 - Plyer — system notifications
 
 ### 📦 Installation
-Download `.exe` from [Google Drive](https://drive.google.com/file/d/1FqnvDbnFfZhqQBQZPQJ7EnC-Pm2uGFzy/view?usp=drive_link)
+Download `.exe` from [Google Drive](https://drive.google.com/file/d/1Fn7jUoc9cL1ygCZpvVpYhbcrdE1s1JY2/view?usp=drive_link)
 or
-Download `.exe` from [Yandex Drive](https://disk.yandex.ru/d/a9oeCGVr6iitDw)
+Download `.exe` from [Yandex Drive](https://disk.yandex.ru/d/4LeHDrJxK0doPg)
 
 ### 📊 Why This Project Matters
 
