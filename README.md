@@ -38,11 +38,45 @@ A simple but powerful desktop application to help students organize their tasks,
 - JSON for data storage
 - Plyer — system notifications
 
-### 📦 Installation
-Download `.zip` from [Google Drive](https://drive.google.com/file/d/1Fn7jUoc9cL1ygCZpvVpYhbcrdE1s1JY2/view?usp=drive_link)
-or
-Download `.zip` from [Yandex Drive](https://disk.yandex.ru/d/4LeHDrJxK0doPg)
+### 📥 Download & Installation
 
+The easiest way to get Krabb Manager is through **GitHub Releases**. Each release includes a ready-to-run `.exe` file — no Python installation required!
+
+#### Option 1: Download from GitHub Releases (Recommended)
+1. Go to the **[Releases](https://github.com/xl3pp/Krabb-Manager/releases)** page of this repository
+2. Find the latest version (usually at the top)
+3. Download `Krabb_Manager_vX.X.X.exe` (or `.zip` archive if available)
+4. Run the downloaded file — the app starts immediately!
+
+#### Option 2: Alternative mirrors
+- [Google Drive](https://drive.google.com/file/d/1Fn7jUoc9cL1ygCZpvVpYhbcrdE1s1JY2/view?usp=drive_link)
+- [Yandex Disk](https://disk.yandex.ru/d/4LeHDrJxK0doPg)
+
+> 💡 **Tip:** Always download the latest version to get newest features and bug fixes!
+
+### ⚠️ Important Security Note
+
+When you first run the downloaded `.exe` file, **Windows SmartScreen** might show a warning:
+> *"Windows protected your PC — Microsoft Defender SmartScreen prevented an unrecognized app from starting"*
+
+**This is completely normal** for small independent projects like this one. Here's why:
+- The app is **open source** — you can [inspect the code](https://github.com/xl3pp/Krabb-Manager) yourself
+- It's not yet digitally signed (code signing certificates are expensive for students 😅)
+- The app is 100% safe and contains no malware
+
+#### How to run it safely:
+1. When you see the warning, click **"More info"**
+2. Then click **"Run anyway"**
+3. The app will start normally
+
+![Windows SmartScreen warning explanation](https://user-images.githubusercontent.com/your-image-link/warning-example.png)
+
+✅ **Trust the app?** If you use Krabb Manager regularly, Windows will stop showing this warning after a few launches.
+
+---
+
+### 🐛 Found a bug?
+Please [open an issue](https://github.com/xl3pp/Krabb-Manager/issues) — I'm actively maintaining this project!
 ### 📊 Why This Project Matters
 
 # This app solves a real problem: many students (including me) struggle with time management. During testing:
