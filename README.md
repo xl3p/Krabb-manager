@@ -50,7 +50,6 @@ The easiest way to get Krabb Manager is through **GitHub Releases**. Each releas
 
 #### Option 2: Alternative mirrors
 - [Google Drive](https://drive.google.com/file/d/1Fn7jUoc9cL1ygCZpvVpYhbcrdE1s1JY2/view?usp=drive_link)
-- [Yandex Disk](https://disk.yandex.ru/d/4LeHDrJxK0doPg)
 
 > 💡 **Tip:** Always download the latest version to get newest features and bug fixes!
 
